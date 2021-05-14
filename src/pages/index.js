@@ -13,9 +13,9 @@ const IndexPage = () => {
         </div>
         <div className="flex flex-col items-center justify-center pb-10 lg:pb-16 lg:pt-4 space-y-8 lg:space-y-16">
           <WidgetGroup title="Developer">
-            <Widget url="mailto:johnmccormick91@gmail.com" title="Contact" />
             <Widget url="https://github.com/johnmccormick" title="Github" />
             <Widget url="https://www.linkedin.com/in/john--mccormick/" title="LinkedIn" />
+            <Widget url="mailto:johnmccormick91@gmail.com" title="Contact" />
           </WidgetGroup>
           <WidgetGroup title="Apps">
             <Widget url="https://www.pizzaexpress.com/mobile-pay" title="PizzaExpress: Mobile Pay" subtitle="2020" />
